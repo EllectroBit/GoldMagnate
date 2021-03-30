@@ -1,0 +1,9 @@
+lastUpgrade=01009
+proj.pluginVersion=0.10.09
+proj.AppId=1026081144554
+and.BundleId=com.SMT.GoldMagnate
+proj.classDir=Assets
+proj.ConstantsClassName=GPGSIds
+and.ResourceData=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0d%0a%3c%21--%0d%0aGoogle+Play+game+services+IDs.%0d%0aSave+this+file+as+res%2fvalues%2fgames-ids.xml+in+your+project.%0d%0a--%3e%0d%0a%3cresources%3e%0d%0a++%3c%21--+app_id+--%3e%0d%0a++%3cstring+name%3d%22app_id%22+translatable%3d%22false%22%3e1026081144554%3c%2fstring%3e%0d%0a++%3c%21--+package_name+--%3e%0d%0a++%3cstring+name%3d%22package_name%22+translatable%3d%22false%22%3ecom.SMT.GoldMagnate%3c%2fstring%3e%0d%0a++%3c%21--+achievement+The+beginning+--%3e%0d%0a++%3cstring+name%3d%22achievement_the_beginning%22+translatable%3d%22false%22%3eCgkI6v3Oue4dEAIQAg%3c%2fstring%3e%0d%0a++%3c%21--+achievement+Millionaire+--%3e%0d%0a++%3cstring+name%3d%22achievement_millionaire%22+translatable%3d%22false%22%3eCgkI6v3Oue4dEAIQAw%3c%2fstring%3e%0d%0a++%3c%21--+achievement+Billionaire+--%3e%0d%0a++%3cstring+name%3d%22achievement_billionaire%22+translatable%3d%22false%22%3eCgkI6v3Oue4dEAIQBA%3c%2fstring%3e%0d%0a++%3c%21--+achievement+Magnate+--%3e%0d%0a++%3cstring+name%3d%22achievement_magnate%22+translatable%3d%22false%22%3eCgkI6v3Oue4dEAIQBQ%3c%2fstring%3e%0d%0a++%3c%21--+achievement+Boss+--%3e%0d%0a++%3cstring+name%3d%22achievement_boss%22+translatable%3d%22false%22%3eCgkI6v3Oue4dEAIQBg%3c%2fstring%3e%0d%0a++%3c%21--+achievement+Big+Boss+--%3e%0d%0a++%3cstring+name%3d%22achievement_big_boss%22+translatable%3d%22false%22%3eCgkI6v3Oue4dEAIQBw%3c%2fstring%3e%0d%0a++%3c%21--+leaderboard+Best+Miner+--%3e%0d%0a++%3cstring+name%3d%22leaderboard_best_miner%22+translatable%3d%22false%22%3eCgkI6v3Oue4dEAIQAQ%3c%2fstring%3e%0d%0a%3c%2fresources%3e%0d%0a
+and.ClientId=1026081144554-doiu1g6gf4qt1ckl3kjmv9vbijncqung.apps.googleusercontent.com
+android.SetupDone=true

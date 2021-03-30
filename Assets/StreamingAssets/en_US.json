@@ -1,0 +1,132 @@
+{
+  "items": [
+    {
+      "key": "mine",
+      "value": "Mine"
+    },
+    {
+      "key": "forge",
+      "value": "Forge"
+    },
+    {
+      "key": "city",
+      "value": "City"
+    },
+    {
+      "key": "back",
+      "value": "Back"
+    },
+    {
+      "key": "workers",
+      "value": "Workers"
+    },
+    {
+      "key": "upgrade",
+      "value": "Upgrade"
+    },
+    {
+      "key": "upgrading",
+      "value": "Upgrading..."
+    },
+    {
+      "key": "buynew",
+      "value": "Buy  New"
+    },
+    {
+      "key": "second)",
+      "value": "Seconds)"
+    },
+    {
+      "key": "goldPrice",
+      "value": "Gold Price"
+    },
+    {
+      "key": "sell",
+      "value": "Sell"
+    },
+    {
+      "key": "saleTip1",
+      "value": "You can sell:"
+    },
+    {
+      "key": "ingots",
+      "value": "ingots"
+    },
+    {
+      "key": "saleTip2",
+      "value": "Your sales level:"
+    },
+    {
+      "key": "hire",
+      "value": "Hire"
+    },
+    {
+      "key": "saleTip3",
+      "value": "Employee LVL:"
+    },
+    {
+      "key": "perClick",
+      "value": "Per Click:"
+    },
+    {
+      "key": "mining",
+      "value": "Mine"
+    },
+    {
+      "key": "language",
+      "value": "Language"
+    },
+    {
+      "key": "notEnought",
+      "value": "Not Enough"
+    },
+    {
+      "key": "money",
+      "value": "Money"
+    },
+    {
+      "key": "moreNeed",
+      "value": "Lacking"
+    },
+    {
+      "key": "forgeFuelTip",
+      "value": "Do you want to boost this forge?"
+    },
+    {
+      "key": "cost",
+      "value": "Cost:"
+    },
+    {
+      "key": "cancel",
+      "value": "Cancel"
+    },
+    {
+      "key": "forgeBoost",
+      "value": "Forge Boost"
+    },
+    {
+      "key": "goldPriceBoost",
+      "value": "Gold Price Boost"
+    },
+    {
+      "key": "noAds",
+      "value": "No Ads"
+    },
+    {
+      "key": "workersReport",
+      "value": "Workers Report"
+    },
+    {
+      "key": "get",
+      "value": "Get"
+    },
+    {
+      "key": "atLeast",
+      "value": "You need at least"
+    },
+    {
+      "key": "WRinfo",
+      "value": "*Maximum 2 Hours"
+    }
+  ]
+}

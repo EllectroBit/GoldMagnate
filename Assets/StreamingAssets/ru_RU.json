@@ -1,0 +1,132 @@
+{
+  "items": [
+    {
+      "key": "mine",
+      "value": "Шахта"
+    },
+    {
+      "key": "forge",
+      "value": "Печи"
+    },
+    {
+      "key": "city",
+      "value": "Город"
+    },
+    {
+      "key": "back",
+      "value": "Назад"
+    },
+    {
+      "key": "workers",
+      "value": "Рабочие"
+    },
+    {
+      "key": "upgrade",
+      "value": "Улучшить"
+    },
+    {
+      "key": "upgrading",
+      "value": "Upgrading..."
+    },
+    {
+      "key": "buynew",
+      "value": "Купить"
+    },
+    {
+      "key": "second)",
+      "value": "секунд)"
+    },
+    {
+      "key": "goldPrice",
+      "value": "Цена золота"
+    },
+    {
+      "key": "sell",
+      "value": "Продать"
+    },
+    {
+      "key": "saleTip1",
+      "value": "К продаже:"
+    },
+    {
+      "key": "ingots",
+      "value": "Слитков"
+    },
+    {
+      "key": "saleTip2",
+      "value": "Навык продаж:"
+    },
+    {
+      "key": "hire",
+      "value": "Нанять"
+    },
+    {
+      "key": "saleTip3",
+      "value": "LVL сотрудника:"
+    },
+    {
+      "key": "perClick",
+      "value": "За клик:"
+    },
+    {
+      "key": "mining",
+      "value": "Добывать"
+    },
+    {
+      "key": "language",
+      "value": "Язык"
+    },
+    {
+      "key": "notEnought",
+      "value": "Не достаточно"
+    },
+    {
+      "key": "money",
+      "value": "средств"
+    },
+    {
+      "key": "moreNeed",
+      "value": "Не хватает"
+    },
+    {
+      "key": "forgeFuelTip",
+      "value": "Ускорить печь?"
+    },
+    {
+      "key": "cost",
+      "value": "Цена:"
+    },
+    {
+      "key": "cancel",
+      "value": "Отмена"
+    },
+    {
+      "key": "forgeBoost",
+      "value": "Ускорение печи"
+    },
+    {
+      "key": "goldPriceBoost",
+      "value": "Пик цен"
+    },
+    {
+      "key": "noAds",
+      "value": "Убрать рекламу"
+    },
+    {
+      "key": "workersReport",
+      "value": "Отчёт по добыче"
+    },
+    {
+      "key": "get",
+      "value": "Собрать"
+    },
+    {
+      "key": "atLeast",
+      "value": "Вам нужно как минимум"
+    },
+    {
+      "key": "WRinfo",
+      "value": "*Максимум 2 часа"
+    }
+  ]
+}
